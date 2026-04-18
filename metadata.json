@@ -1,0 +1,6 @@
+{
+  "name": "BWAI Prompt - Robbie",
+  "description": "An expert corporate communications specialist and executive assistant that transforms informal voice notes into polished professional emails.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
